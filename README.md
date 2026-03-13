@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Weal 👋
 
-### 📊 Data Analyst | Power BI & SQL Enthusiast
+### 📊 Data Analyst | Power BI & SQL & Python & Excel Enthusiast
 I am a passionate Data Analyst dedicated to transforming complex datasets into actionable business insights. With a strong foundation in data engineering and visualization, I enjoy solving problems across various business domains.
 
 ---
@@ -39,4 +39,4 @@ I am a passionate Data Analyst dedicated to transforming complex datasets into a
 
 - **Email:** [mohammedweal2003@gmail.com]
 
-- ⚡ **Fun fact:** I love diving deep into DAX functions and Python web scraping!
+- ⚡ **Fun fact:** I love diving deep into DAX functions and Python Analysis and Visualization
